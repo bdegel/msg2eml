@@ -1,3 +1,6 @@
 <Solution>
-  <Project Path="msg2eml.csproj" />
+  <Folder Name="/Solution Items/">
+    <File Path="FodyWeavers.xml" />
+  </Folder>
+  <Project Path="msg2eml.csproj" Id="6c62fdf2-d1d8-440c-b140-54b1c3980710" />
 </Solution>
