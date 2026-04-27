@@ -8,5 +8,7 @@ Usage:
 If output.eml is not specified, it will be created in the same directory as input.msg with the same name.
 Examples:
 
-`msg2eml Testmail.msg
-msg2eml C:\Temp\Testmail.msg C:\Output.eml`
+```
+msg2eml Testmail.msg
+msg2eml C:\Temp\Testmail.msg C:\Output.eml
+```
